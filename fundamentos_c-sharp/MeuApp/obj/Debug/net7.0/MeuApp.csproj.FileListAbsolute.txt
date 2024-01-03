@@ -1,0 +1,15 @@
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/bin/Debug/net7.0/MeuApp
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/bin/Debug/net7.0/MeuApp.deps.json
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/bin/Debug/net7.0/MeuApp.runtimeconfig.json
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/bin/Debug/net7.0/MeuApp.dll
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/bin/Debug/net7.0/MeuApp.pdb
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/obj/Debug/net7.0/MeuApp.csproj.AssemblyReference.cache
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/obj/Debug/net7.0/MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/obj/Debug/net7.0/MeuApp.AssemblyInfoInputs.cache
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/obj/Debug/net7.0/MeuApp.AssemblyInfo.cs
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/obj/Debug/net7.0/MeuApp.csproj.CoreCompileInputs.cache
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/obj/Debug/net7.0/MeuApp.dll
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/obj/Debug/net7.0/refint/MeuApp.dll
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/obj/Debug/net7.0/MeuApp.pdb
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/obj/Debug/net7.0/MeuApp.genruntimeconfig.cache
+/home/brcmesquita/Workspaces/Cursos/cursos-balta.io/fundamentos_c-sharp/MeuApp/obj/Debug/net7.0/ref/MeuApp.dll
